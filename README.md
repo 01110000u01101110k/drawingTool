@@ -1,5 +1,3 @@
-# online planning tool
+# online drawing tool
 
 Demo: https://onlineplanning.vercel.app/
-
-in process..
